@@ -1,0 +1,48 @@
+Harry_Potter.html 42.00962074209243
+Tom_Riddle.html 6.141971688426335
+Albus_Dumbledore.html 1.369269541705458
+Hermione_Granger.html 0.9344732605706293
+**********
+Ronald_Weasley.html 5.320337386619647
+Hermione_Granger.html 4.672366302853146
+Harry_Potter.html 3.819056431099312
+Ginevra_Weasley.html 0.6334184257783937
+**********
+Harry_Potter.html 28.64292323324484
+Tom_Riddle.html 21.496900909492172
+Hermione_Granger.html 9.344732605706293
+Ronald_Weasley.html 7.0937831821595285
+**********
+Harry_Potter.html 3.819056431099312
+Severus_Snape.html 3.512680614704336
+Albus_Dumbledore.html 2.738539083410916
+Ronald_Weasley.html 0.8867228977699411
+Harry_Potter.html 21.004810371046215
+Draco_Malfoy.html 1.5550815765128083
+Neville_Longbottom.html 1.0194544426096994
+Hermione_Granger.html 0.9344732605706293
+Harry_Potter.html 42.00962074209243
+Tom_Riddle.html 6.141971688426335
+Albus_Dumbledore.html 1.369269541705458
+Hermione_Granger.html 0.9344732605706293
+**********
+Ronald_Weasley.html 5.320337386619647
+Hermione_Granger.html 4.672366302853146
+Harry_Potter.html 3.819056431099312
+Ginevra_Weasley.html 0.6334184257783937
+**********
+Harry_Potter.html 28.64292323324484
+Tom_Riddle.html 21.496900909492172
+Hermione_Granger.html 9.344732605706293
+Ronald_Weasley.html 7.0937831821595285
+**********
+Harry_Potter.html 3.819056431099312
+Severus_Snape.html 3.512680614704336
+Albus_Dumbledore.html 2.738539083410916
+Ronald_Weasley.html 0.8867228977699411
+**********
+Harry_Potter.html 21.004810371046215
+Draco_Malfoy.html 1.5550815765128083
+Neville_Longbottom.html 1.0194544426096994
+Hermione_Granger.html 0.9344732605706293
+**********

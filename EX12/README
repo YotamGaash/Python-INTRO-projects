@@ -1,0 +1,39 @@
+< EXTRA FEATURES:
+
+START_MENU - A welcome screen for the game
+
+CREDITS - credits for the creators
+
+END_GAME_SCREEN - an end screen that shows the user his score and the word he found, and gives him the option to play again
+
+GIF_IMPLEMENTATION: We have gifs in our GUI.
+
+>
+
+Hello there (Real star wars fan knows)
+
+
+Here some documentation about our boggle game
+
+boggle_board.py:
+
+this file is used to create the board objects for the game.
+
+boggle_controller:
+
+this file links between our game logic to the gui elements.
+
+boggle_gui.py:
+
+this file contains the gui elements for our game.
+
+ImageTk:
+
+a PIL moudle that is imported in case it cant be imported from PIL
+
+resources:
+
+a directory containing the game images and gifs for the gui.
+ 
+
+
